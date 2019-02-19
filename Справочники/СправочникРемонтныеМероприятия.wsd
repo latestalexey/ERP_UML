@@ -1,0 +1,7 @@
+﻿@startuml РемонтныеМероприятия
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.РемонтныеМероприятия as "Ремонтные мероприятия" <<Справочники>>
+{
+}
+@enduml

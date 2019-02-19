@@ -1,0 +1,7 @@
+﻿@startuml СтепениРодстваФизическихЛиц
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.СтепениРодстваФизическихЛиц as "Степени родства" <<Справочники>>
+{
+}
+@enduml

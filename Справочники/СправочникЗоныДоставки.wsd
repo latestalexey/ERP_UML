@@ -1,0 +1,9 @@
+﻿@startuml ЗоныДоставки
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ЗоныДоставки as "Зоны доставки" <<Справочники>>
+{
+..Реквизиты..
+Описание : Строка
+}
+@enduml

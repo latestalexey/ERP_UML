@@ -1,0 +1,9 @@
+﻿@startuml Задания
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.Задания as "Задания" <<Отчеты>>
+{
+..Макеты..
+Макет : СхемаКомпоновкиДанных
+}
+@enduml

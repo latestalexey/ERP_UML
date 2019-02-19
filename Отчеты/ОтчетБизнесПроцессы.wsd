@@ -1,0 +1,9 @@
+﻿@startuml БизнесПроцессы
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.БизнесПроцессы as "Бизнес-процессы" <<Отчеты>>
+{
+..Макеты..
+Макет : СхемаКомпоновкиДанных
+}
+@enduml

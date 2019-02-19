@@ -1,0 +1,7 @@
+﻿@startuml ДоходыБудущихПериодов
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ДоходыБудущихПериодов as "Доходы будущих периодов" <<Справочники>>
+{
+}
+@enduml

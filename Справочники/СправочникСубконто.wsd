@@ -1,0 +1,7 @@
+﻿@startuml Субконто
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.Субконто as "Субконто" <<Справочники>>
+{
+}
+@enduml

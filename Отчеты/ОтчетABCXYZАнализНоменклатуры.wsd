@@ -1,0 +1,9 @@
+﻿@startuml ABCXYZАнализНоменклатуры
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.ABCXYZАнализНоменклатуры as "ABC/XYZ - анализ номенклатуры" <<Отчеты>>
+{
+..Макеты..
+ОсновнаяСхемаКомпоновкиДанных : СхемаКомпоновкиДанных
+}
+@enduml

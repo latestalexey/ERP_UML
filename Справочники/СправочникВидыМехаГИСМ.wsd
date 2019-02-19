@@ -1,0 +1,9 @@
+﻿@startuml ВидыМехаГИСМ
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ВидыМехаГИСМ as "Виды меха ГИСМ" <<Справочники>>
+{
+..Реквизиты..
+КодТНВЭД : Строка
+}
+@enduml

@@ -1,0 +1,7 @@
+﻿@startuml БюджетныйОтчет
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.БюджетныйОтчет as "Бюджетный отчет" <<Отчеты>>
+{
+}
+@enduml

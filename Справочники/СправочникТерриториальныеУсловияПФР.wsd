@@ -1,0 +1,7 @@
+﻿@startuml ТерриториальныеУсловияПФР
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ТерриториальныеУсловияПФР as "Территориальные условия" <<Справочники>>
+{
+}
+@enduml

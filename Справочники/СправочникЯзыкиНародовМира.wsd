@@ -1,0 +1,7 @@
+﻿@startuml ЯзыкиНародовМира
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ЯзыкиНародовМира as "Языки народов мира" <<Справочники>>
+{
+}
+@enduml

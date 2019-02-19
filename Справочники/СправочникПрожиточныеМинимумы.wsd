@@ -1,0 +1,7 @@
+﻿@startuml ПрожиточныеМинимумы
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ПрожиточныеМинимумы as "Прожиточные минимумы" <<Справочники>>
+{
+}
+@enduml

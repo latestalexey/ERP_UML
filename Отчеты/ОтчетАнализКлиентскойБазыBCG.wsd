@@ -1,0 +1,9 @@
+﻿@startuml АнализКлиентскойБазыBCG
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.АнализКлиентскойБазыBCG as "Матрица BCG" <<Отчеты>>
+{
+..Макеты..
+Матрицы : ТабличныйДокумент
+}
+@enduml

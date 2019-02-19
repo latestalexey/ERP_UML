@@ -1,0 +1,7 @@
+﻿@startuml ОтраслиНауки
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ОтраслиНауки as "Отрасли науки" <<Справочники>>
+{
+}
+@enduml

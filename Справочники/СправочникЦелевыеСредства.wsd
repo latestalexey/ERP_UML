@@ -1,0 +1,7 @@
+﻿@startuml ЦелевыеСредства
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ЦелевыеСредства as "Целевые средства" <<Справочники>>
+{
+}
+@enduml

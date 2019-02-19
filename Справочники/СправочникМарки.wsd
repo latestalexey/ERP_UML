@@ -1,0 +1,9 @@
+﻿@startuml Марки
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.Марки as "Марки (бренды)" <<Справочники>>
+{
+..Реквизиты..
+Производитель : Справочник.Производитель
+}
+@enduml

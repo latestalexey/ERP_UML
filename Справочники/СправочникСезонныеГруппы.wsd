@@ -1,0 +1,7 @@
+﻿@startuml СезонныеГруппы
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.СезонныеГруппы as "Сезонные группы номенклатуры" <<Справочники>>
+{
+}
+@enduml

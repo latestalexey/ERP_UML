@@ -1,0 +1,7 @@
+﻿@startuml СостояниеВБраке
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.СостояниеВБраке as "Состояние в браке" <<Справочники>>
+{
+}
+@enduml

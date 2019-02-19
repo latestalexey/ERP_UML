@@ -1,0 +1,7 @@
+﻿@startuml ЦенныеБумаги
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ЦенныеБумаги as "Ценные бумаги" <<Справочники>>
+{
+}
+@enduml

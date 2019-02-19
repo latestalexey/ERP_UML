@@ -1,0 +1,7 @@
+﻿@startuml Резервы
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.Резервы as "Оценочные обязательства и резервы" <<Справочники>>
+{
+}
+@enduml

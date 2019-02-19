@@ -1,0 +1,7 @@
+﻿@startuml Производители
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.Производители as "Производители" <<Справочники>>
+{
+}
+@enduml

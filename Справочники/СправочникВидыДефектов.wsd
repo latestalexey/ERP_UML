@@ -1,0 +1,7 @@
+﻿@startuml ВидыДефектов
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ВидыДефектов as "Виды дефектов" <<Справочники>>
+{
+}
+@enduml

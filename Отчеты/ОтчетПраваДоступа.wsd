@@ -1,0 +1,9 @@
+﻿@startuml ПраваДоступа
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.ПраваДоступа as "Права доступа" <<Отчеты>>
+{
+..Макеты..
+Макет : ТабличныйДокумент
+}
+@enduml

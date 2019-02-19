@@ -1,0 +1,7 @@
+﻿@startuml НастройкаСписка
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.НастройкаСписка as "Настройка списка" <<Отчеты>>
+{
+}
+@enduml

@@ -1,0 +1,7 @@
+﻿@startuml ЗначенияКатегорийНовостей
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ЗначенияКатегорийНовостей as "Значения категорий новостей" <<Справочники>>
+{
+}
+@enduml

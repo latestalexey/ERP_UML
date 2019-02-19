@@ -1,0 +1,7 @@
+﻿@startuml СтепениЗнанияЯзыка
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.СтепениЗнанияЯзыка as "Степени знания языков" <<Справочники>>
+{
+}
+@enduml

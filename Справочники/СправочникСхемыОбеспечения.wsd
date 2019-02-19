@@ -1,0 +1,7 @@
+﻿@startuml СхемыОбеспечения
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.СхемыОбеспечения as "Схемы обеспечения" <<Справочники>>
+{
+}
+@enduml

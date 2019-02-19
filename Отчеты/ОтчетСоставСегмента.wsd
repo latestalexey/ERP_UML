@@ -1,0 +1,7 @@
+﻿@startuml СоставСегмента
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.СоставСегмента as "Состав сегмента" <<Отчеты>>
+{
+}
+@enduml

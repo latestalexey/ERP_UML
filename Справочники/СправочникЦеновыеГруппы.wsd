@@ -1,0 +1,9 @@
+﻿@startuml ЦеновыеГруппы
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ЦеновыеГруппы as "Ценовые группы" <<Справочники>>
+{
+..Реквизиты..
+Описание : Строка
+}
+@enduml

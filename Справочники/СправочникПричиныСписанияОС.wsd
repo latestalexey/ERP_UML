@@ -1,0 +1,7 @@
+﻿@startuml ПричиныСписанияОС
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ПричиныСписанияОС as "Причины списания ОС" <<Справочники>>
+{
+}
+@enduml

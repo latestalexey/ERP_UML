@@ -1,0 +1,9 @@
+﻿@startuml ABCXYZРаспределениеКлиентов
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.ABCXYZРаспределениеКлиентов as "ABC/XYZ - распределение клиентов" <<Отчеты>>
+{
+..Макеты..
+ОсновнаяСхемаКомпоновкиДанных : СхемаКомпоновкиДанных
+}
+@enduml

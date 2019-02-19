@@ -1,0 +1,9 @@
+﻿@startuml РабочиеМеста
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.РабочиеМеста as "Рабочие места" <<Справочники>>
+{
+..Реквизиты..
+ИмяКомпьютера : Строка
+}
+@enduml

@@ -1,0 +1,7 @@
+﻿@startuml УченыеЗвания
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.УченыеЗвания as "Ученые звания" <<Справочники>>
+{
+}
+@enduml

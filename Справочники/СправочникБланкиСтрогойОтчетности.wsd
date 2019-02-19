@@ -1,0 +1,7 @@
+﻿@startuml БланкиСтрогойОтчетности
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.БланкиСтрогойОтчетности as "Бланки строгой отчетности" <<Справочники>>
+{
+}
+@enduml

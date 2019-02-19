@@ -1,0 +1,7 @@
+﻿@startuml ВидыНалоговыхОрганов
+'!include templates.wsd
+'..\include templates.wsd
+class Справочник.ВидыНалоговыхОрганов as "Виды налоговых органов" <<Справочники>>
+{
+}
+@enduml

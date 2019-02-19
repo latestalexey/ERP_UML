@@ -1,0 +1,7 @@
+﻿@startuml ДиаграммаПроизводстваЗаказа
+'!include templates.wsd
+'..\include templates.wsd
+class Отчет.ДиаграммаПроизводстваЗаказа as "Диаграмма производства заказа" <<Отчеты>>
+{
+}
+@enduml

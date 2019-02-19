@@ -1,0 +1,8 @@
+﻿@startuml templates
+hide circle
+skinparam packageStyle rectangle
+skinparam class {
+BackgroundColor<<Справочники>> LightGreen
+BackgroundColor<<Документы>> LightGray
+}
+@enduml
